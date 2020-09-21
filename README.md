@@ -1,3 +1,8 @@
+This is a clone of Doxygen release 1.8.11
+===============
+It is cloned here because it is an essential and EXTREMELY FRAGILE dependency for building the [UnityModules][https://github.com/leapmotion/UnityModules] documentation.
+Original readme copied below.
+
 Doxygen
 ===============
 Doxygen is the de facto standard tool for generating documentation from 
